@@ -1,0 +1,2 @@
+add_lunch_combo omni_serrano3gxx-eng
+add_lunch_combo omni_serrano3gxx-userdebug
